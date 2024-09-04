@@ -1,16 +1,20 @@
-## Hi there 👋
+Bienvenido a mi GitHub 👋
+Soy Alexis Alejadro Calderon Full Stack
+🌍 Vivo en Mendoza, Argentina
 
-<!--
-**calderonic/calderonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✉️ Podes contactarte conmigo a traves de mi mail alejandrodev2019@gmail.com
 
-Here are some ideas to get you started:
+Si bien soy desarrollador Full Stack, tengo un enfoque orientado en Java y Spring. Mi experiencia previa como profesor de educación física ha fortalecido mis habilidades de comunicación y trabajo en equipo, lo que se traduce en una colaboración efectiva en proyectos de desarrollo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Además, siempre estoy en busca de aprender nuevas tecnologías. Actualmente, estoy realizando una especializacion en Front End gracias a Alura Latam y Oracle mediante la beca de Oracle Next Education.
+
+Skills
+Back-end
+Java Spring Git NodeJSMySQLPostgreSQLOracle
+
+Front-end
+HTML5 CSS3 JavaScript React VS Code
+
+Redes Sociales
+
+
