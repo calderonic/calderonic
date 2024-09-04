@@ -1,9 +1,14 @@
-# 💻 **Alexis Alejandro Calderón** 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrodev2019)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/calderonic)
 
-### 🎯 **Objetivo Laboral**
-Soy un apasionado del aprendizaje autodidacta con una mentalidad positiva y un firme deseo de superar desafíos en el ámbito de sistemas. Busco unirme a un equipo donde pueda poner en práctica mis conocimientos, crecer profesionalmente y aportar valor en proyectos innovadores.
+# 👋 Hola, soy **Alexis Alejandro Calderón**
+
+🎯 **Apasionado por la tecnología y el aprendizaje continuo.**  
+Soy un estudiante de ![Ingeniería en Informática](https://img.shields.io/badge/Ingeniería%20en%20Informática-4CAF50?style=for-the-badge&logo=google-scholar&logoColor=white) en la ![UNLaM](https://img.shields.io/badge/UNLaM-0056A1?style=for-the-badge&logo=google-scholar&logoColor=white), con una base sólida como ![Técnico en Informática](https://img.shields.io/badge/Técnico%20en%20Informática-4479A1?style=for-the-badge&logo=microsoft&logoColor=white) por la **Técnica N° 11 Islas Malvinas**.
+
+🔍 **Objetivo Laboral:**  
+Busco unirme a un equipo donde pueda aplicar mis conocimientos, crecer profesionalmente y aportar valor en proyectos innovadores.
 
 ### 🛠️ **Habilidades Técnicas**
 - **Lenguajes de Programación:**
@@ -25,33 +30,6 @@ Soy un apasionado del aprendizaje autodidacta con una mentalidad positiva y un f
   ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### 💼 **Experiencia en Proyectos**
-- **Backend Developer con Enfoque en Testing | No-Country (Febrero 2024 - Actualidad)**
-  - Aplicación de metodologías como MVC, Arquitectura Hexagonal y desarrollo de API Rest.
-  - Diseño y manejo de bases de datos (MySQL, PostgreSQL).
-  - Despliegue de aplicaciones en producción utilizando Docker-compose.
-  - Integración de servicios automatizados (Google Gmail).
-  - Colaboración con el equipo de testing usando Mockito, JUnit, y Postman.
-  - Participación en dailies y reuniones bisemanales con el Team Leader.
-
-### 🎓 **Educación**
-- **Ingeniería en Informática | Universidad Nacional de La Matanza (2023 - Presente)**
-- **Técnico en Informática | Técnica N° 11 Islas Malvinas (Finalizado en 2020)**
-
-### 📚 **Certificaciones**
-- **Scrum Fundamentals Certified** | SCRUMstudy (Marzo 2023)
-- **Certificado de Cyberseguridad** | Universidad Nacional de La Matanza (Agosto 2022)
-- **Responsive Web Design** | freeCodeCamp (Junio 2020)
-
-### 🌐 **Idiomas**
-- **Español:** Nativo
-- **Inglés:** B2
-
-### 🚀 **Proyectos Destacados**
-- [Proyecto Java: GitHub - s14-10-m-java](https://github.com/calderonic/s14-10-m-java)
-
----
-
 ## 📧 **Contacto:**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandrodev2019@gmail.com) 
@@ -60,15 +38,7 @@ Soy un apasionado del aprendizaje autodidacta con una mentalidad positiva y un f
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+541139149330) 
 **11 3914-9330**
 
-[![Phone](https://img.shields.io/badge/Phone-0078D4?style=for-the-badge&logo=phone&logoColor=white)](tel:+541144673752) 
-**4467-3752**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrodev2019)
 **www.linkedin.com/in/alejandrodev2019**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/calderonic)
-**https://github.com/calderonic**
 
-**Fecha de nacimiento:** 
-![Birthday](https://img.shields.io/badge/Date%20of%20Birth-February%202002-FB7C14?style=for-the-badge&logo=cake&logoColor=white) 
-**Febrero 2002**
