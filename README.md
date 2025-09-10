@@ -3,6 +3,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandrodev2019@gmail.com)
 
 # 👋 Hi, I’m **Alexis Alejandro Calderón**
+🎯 **Passionate about technology and continuous learning.**  
+I am a student of ![Computer Engineering](https://img.shields.io/badge/Ingeniería%20en%20Informática-4CAF50?style=for-the-badge&logo=google-scholar&logoColor=white) at ![UNLaM](https://img.shields.io/badge/UNLaM-0056A1?style=for-the-badge&logo=google-scholar&logoColor=white), with a solid foundation as a ![Computer Technician](https://img.shields.io/badge/Técnico%20en%20Informática-4479A1?style=for-the-badge&logo=microsoft&logoColor=white) from **Técnica N° 11 Islas Malvinas**.
 
 🎯 **QA Automation & Backend Developer | Agile & Full Stack Experience**  
 
